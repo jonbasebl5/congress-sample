@@ -1,0 +1,18 @@
+{
+  "name": "congress-sample",
+  "version": "1.0.0",
+  "description": "Learning node with Hatchypants",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonbasebl5/congress-sample.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonbasebl5@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
